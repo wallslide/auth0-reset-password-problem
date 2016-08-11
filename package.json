@@ -1,0 +1,11 @@
+{
+  "name": "test-auth0",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "auth0-lock": "^10.1.0",
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
